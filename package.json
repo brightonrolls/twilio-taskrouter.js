@@ -89,15 +89,15 @@
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1",
     "webpack-node-externals": "^3.0.0",
-  },
-  "resolutions": {
+    },
+    "resolutions": {
     "nyc/**/y18n": "^4.0.1",
-  },
-  "engines": {
+    },
+    "engines": {
     "node": ">=12",
-  },
-  "types": "./dist/types.d.ts",
-}
+    },
+    "types": "./dist/types.d.ts",
+    }
           "scripts": {
               "start": "node index.js",
            }
