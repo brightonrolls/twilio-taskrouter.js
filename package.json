@@ -8,8 +8,7 @@
   "contributors": [
     "Martin Amps <martin@twilio.com>",
     "Mehul Chopra <mchopra@twilio.com>",
-    "Alex Laird <alaird@twilio.com>",
-  ],
+    "Alex Laird <alaird@twilio.com>"],
   "license": "MIT",
   "keywords": [
     "twilio",
