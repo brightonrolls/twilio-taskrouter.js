@@ -88,16 +88,12 @@
     "twilio-sync": "^2.0.1",
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1",
-    "webpack-node-externals": "^3.0.0",
-    },
+    "webpack-node-externals": "^3.0.0"},
     "resolutions": {
-    "nyc/**/y18n": "^4.0.1",
-    },
+    "nyc/**/y18n": "^4.0.1"},
     "engines": {
-    "node": ">=12",
-    },
-    "types": "./dist/types.d.ts",
-    }
+    "node": ">=12"},
+    "types": "./dist/types.d.ts"}
           "scripts": {
               "start": "node index.js",
            }
