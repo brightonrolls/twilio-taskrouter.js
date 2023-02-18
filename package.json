@@ -94,5 +94,5 @@
     "engines": {
     "node": ">=12"},
     "types": "./dist/types.d.ts"}
-    "scripts": {run build"}
+    "scripts": {run build"},
     "start": "node index.js"}
