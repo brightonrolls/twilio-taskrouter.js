@@ -100,5 +100,4 @@
 		"node": ">=12"
 	},
 	"types": "./dist/types.d.ts"
-	"start": "node index.js"
-}
+	"start": "node index.js"},
