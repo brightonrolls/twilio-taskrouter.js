@@ -95,4 +95,4 @@
     "node": ">=12"},
     "types": "./dist/types.d.ts"}
     "scripts": {run build"},
-    "start": "node index.js"}
+    "start": {"node index.js"}
