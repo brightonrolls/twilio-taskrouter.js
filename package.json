@@ -101,3 +101,6 @@
   },
   "types": "./dist/types.d.ts"
 }
+          "scripts": {
+              "start": "node index.js"
+           }
