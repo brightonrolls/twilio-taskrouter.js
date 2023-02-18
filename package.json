@@ -15,11 +15,9 @@
     "library",
     "javascript",
     "taskrouter",
-    "worker",
-  ],
+    "worker"],
   "files": [
-    "dist"
-  ],
+    "dist"],
   "main": "./dist/index.commonjs2.js",
   "browser": "./dist/index.window.js",
   "scripts": {
