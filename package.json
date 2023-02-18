@@ -95,5 +95,4 @@
     "node": ">=12"},
     "types": "./dist/types.d.ts"}
           "scripts": {
-              "start": "node index.js",
-           }
+              "start": "node index.js"}
